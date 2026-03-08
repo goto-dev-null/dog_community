@@ -30,7 +30,7 @@ lto = true
 overflow-checks = true
 panic = "abort"
 strip = true
-opt-level = "z"
+opt-level = 3
 
 
 [dependencies]
